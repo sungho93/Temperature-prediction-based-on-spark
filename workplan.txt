@@ -1,0 +1,11 @@
+Work plan of ROH
+
+I finished one step
+install and set completed python pycharm java spark
+
+I finished two step
+obtain meteorological data from noaa website
+configure python pip_ Statsmodels, Pandas, Numpy, Matplotilb
+configure virtual machine with Ubantu
+
+I will Data processing in spark

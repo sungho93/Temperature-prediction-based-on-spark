@@ -1,0 +1,40 @@
+Tasks to do:
+
+
+
+1: Data processing
+
+2: Data collecting
+
+3: Build a model
+
+
+
+
+
+plan:
+
+
+
+Accessing and loading datasets
+
+Publicly available datasets 
+
+Loading datasets into Spark 
+
+Exploring and visualizing data with Spark
+
+Data cleaning
+
+Dealing with missing cases and incompleteness
+
+Data cleaning on Spark
+
+Identity matching
+
+Dealing with identity issues
+
+Data matching on Spark
+
+Data reorganizing
+ 
